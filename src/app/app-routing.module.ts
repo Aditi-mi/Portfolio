@@ -5,9 +5,11 @@ import { AboutComponent } from './about/about.component';
 import { ProjectsComponent } from './projects/projects.component';
 
 
-const routes: Routes = [{ path: 'home', component: HomeComponent, data: { title: 'Home' } },
-{ path: 'about', component: AboutComponent, data: { title: 'About' } },
-{ path: 'projects', component: ProjectsComponent, data: { title: 'Projects' } }];
+const routes: Routes = [
+  { path: '', redirectTo: 'home', pathMatch: 'full' },
+  { path: 'home', component: HomeComponent, data: { title: 'Home' } },
+  { path: 'about', component: AboutComponent, data: { title: 'About' } },
+  { path: 'projects', component: ProjectsComponent, data: { title: 'Projects' } }];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],

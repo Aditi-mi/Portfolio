@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" height="317" viewBox="0 0 690 317">
+  <g id="Group_1" data-name="Group 1" transform="translate(-1028 -313)">
+    <path id="Polygon_1" data-name="Polygon 1" d="M81.5,0,163,105H0Z" transform="translate(1555 393)" fill="#fff"/>
+    <path id="Polygon_2" data-name="Polygon 2" d="M50,0l50,63H0Z" transform="translate(1332 468)" fill="#d68060"/>
+    <path id="Polygon_3" data-name="Polygon 3" d="M55.5,0,111,113H0Z" transform="translate(1486 517)" fill="#d68060"/>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="75.5" cy="77.5" rx="75.5" ry="77.5" transform="translate(1486 313)" fill="#dff3e3"/>
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="15" cy="19" rx="15" ry="19" transform="translate(1190 446)" fill="#fff"/>
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="19" cy="20" rx="19" ry="20" transform="translate(1167 590)" fill="#d68060"/>
+    <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="27.5" cy="28" rx="27.5" ry="28" transform="translate(1420 574)" fill="#f1ae89"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="108" height="85" rx="25" transform="translate(1028 517)" fill="#dff3e3"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="156" height="120" rx="32" transform="translate(1304 313)" fill="#fff"/>
+  </g>
+</svg>
